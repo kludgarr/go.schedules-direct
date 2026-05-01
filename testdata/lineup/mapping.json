@@ -1,0 +1,123 @@
+{
+  "map": [
+    {
+      "stationID": "10000001",
+      "channel": "2.1",
+      "atscMajor": 2,
+      "atscMinor": 1,
+      "uhfVhf": 35
+    },
+    {
+      "stationID": "10000002",
+      "channel": "5.1",
+      "atscMajor": 5,
+      "atscMinor": 1,
+      "uhfVhf": 14
+    },
+    {
+      "stationID": "10000003",
+      "channel": "9.1",
+      "atscMajor": 9,
+      "atscMinor": 1,
+      "uhfVhf": 22
+    }
+  ],
+  "stations": [
+    {
+      "stationID": "10000001",
+      "name": "Example-DT",
+      "callsign": "EXMPDT",
+      "affiliate": "Example Network",
+      "broadcastLanguage": ["en"],
+      "descriptionLanguage": ["en"],
+      "broadcaster": {
+        "city": "Example City",
+        "state": "EX",
+        "postalcode": "90210",
+        "country": "USA"
+      },
+      "logo": {
+        "URL": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/example_dark_360w_270h.png",
+        "hash": "0123456789abcdef0123456789abcdef",
+        "height": 270,
+        "md5": "0123456789abcdef0123456789abcdef",
+        "width": 360
+      },
+      "stationLogo": [
+        {
+          "URL": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/example_dark_360w_270h.png",
+          "category": "dark",
+          "hash": "0123456789abcdef0123456789abcdef",
+          "height": 270,
+          "md5": "0123456789abcdef0123456789abcdef",
+          "source": "Gracenote",
+          "width": 360
+        },
+        {
+          "URL": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/example_light_360w_270h.png",
+          "category": "light",
+          "hash": "fedcba9876543210fedcba9876543210",
+          "height": 270,
+          "md5": "fedcba9876543210fedcba9876543210",
+          "source": "Gracenote",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "stationID": "10000002",
+      "name": "Example2-DT",
+      "callsign": "EXM2DT",
+      "affiliate": "Another Example Network",
+      "broadcastLanguage": ["en"],
+      "descriptionLanguage": ["en"],
+      "broadcaster": {
+        "city": "Example City",
+        "state": "EX",
+        "postalcode": "90210",
+        "country": "USA"
+      },
+      "stationLogo": [
+        {
+          "URL": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/example2_dark_360w_270h.png",
+          "category": "dark",
+          "hash": "1111111111111111111111111111111a",
+          "height": 270,
+          "md5": "1111111111111111111111111111111a",
+          "source": "Gracenote",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "stationID": "10000003",
+      "name": "Example3-DT",
+      "callsign": "EXM3DT",
+      "affiliate": "Third Example Network",
+      "broadcastLanguage": ["en"],
+      "descriptionLanguage": ["en"],
+      "broadcaster": {
+        "city": "Example City",
+        "state": "EX",
+        "postalcode": "90210",
+        "country": "USA"
+      },
+      "stationLogo": [
+        {
+          "URL": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/example3_dark_360w_270h.png",
+          "category": "dark",
+          "hash": "2222222222222222222222222222222b",
+          "height": 270,
+          "md5": "2222222222222222222222222222222b",
+          "source": "Gracenote",
+          "width": 360
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lineup": "USA-OTA-90210",
+    "modified": "2099-01-01T00:00:00Z",
+    "transport": "Antenna"
+  }
+}

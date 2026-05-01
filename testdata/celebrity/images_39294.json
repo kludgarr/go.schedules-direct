@@ -1,0 +1,29 @@
+[
+  {
+    "aspect": "3x4",
+    "category": "Photo - headshot",
+    "height": "720",
+    "lastUpdated": "2023-07-31T11:45:46Z",
+    "ratio": "3:4",
+    "uri": "a249d4269a921fe48736c4d8282504872da2dd73b5dbbdf62e3fd71a8c715446.jpg",
+    "width": "540"
+  },
+  {
+    "aspect": "3x4",
+    "category": "Photo - headshot",
+    "height": "360",
+    "lastUpdated": "2023-07-31T11:45:46Z",
+    "ratio": "3:4",
+    "uri": "a37a7654f119d967267e85551b4dd8265ce17b8dc9c4b3369043f1feb7411aa1.jpg",
+    "width": "270"
+  },
+  {
+    "aspect": "3x4",
+    "category": "Photo - headshot",
+    "height": "180",
+    "lastUpdated": "2023-07-31T11:45:46Z",
+    "ratio": "3:4",
+    "uri": "5740bbff76d42bbe034d18a8f2e6027adfd124da3234a0dc746f60cfa3467061.jpg",
+    "width": "135"
+  }
+]

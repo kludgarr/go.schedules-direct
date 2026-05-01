@@ -1,0 +1,17 @@
+[
+  {
+    "description": "List of countries which are available.",
+    "type": "COUNTRIES",
+    "uri": "/20141201/available/countries"
+  },
+  {
+    "description": "List of language digraphs and their language names.",
+    "type": "LANGUAGES",
+    "uri": "/20141201/available/languages"
+  },
+  {
+    "description": "List of Freeview transmitters in a country. Country options: GBR",
+    "type": "DVB-T",
+    "uri": "/20141201/transmitters/{ISO 3166-1 alpha-3}"
+  }
+]

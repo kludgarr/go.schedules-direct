@@ -1,0 +1,360 @@
+{
+  "Caribbean": [
+    {
+      "fullName": "Anguila",
+      "onePostalCode": true,
+      "postalCode": "/AI-2640/",
+      "postalCodeExample": "AI-2640",
+      "shortName": "AIA"
+    },
+    {
+      "fullName": "Antigua/Barbuda",
+      "onePostalCode": true,
+      "postalCode": "/AG/",
+      "postalCodeExample": "AG",
+      "shortName": "ATG"
+    },
+    {
+      "fullName": "Aruba",
+      "onePostalCode": true,
+      "postalCode": "/AW/",
+      "postalCodeExample": "AW",
+      "shortName": "ABW"
+    },
+    {
+      "fullName": "Bahamas",
+      "onePostalCode": true,
+      "postalCode": "/BS/",
+      "postalCodeExample": "BS",
+      "shortName": "BHS"
+    },
+    {
+      "fullName": "Barbados",
+      "postalCode": "/BB\\d{5}/",
+      "postalCodeExample": "BB14001",
+      "shortName": "BRB"
+    },
+    {
+      "fullName": "Bermuda",
+      "postalCode": "/[A-Z]{2}\\d{2}/",
+      "postalCodeExample": "CR01",
+      "shortName": "BMU"
+    },
+    {
+      "fullName": "Bonaire, Saba, St. Eustatius",
+      "onePostalCode": true,
+      "postalCode": "/BQ/",
+      "postalCodeExample": "BQ",
+      "shortName": "BES"
+    },
+    {
+      "fullName": "British Virgin Islands",
+      "postalCode": "/VG\\d{4}/",
+      "postalCodeExample": "VG1110",
+      "shortName": "VGB"
+    },
+    {
+      "fullName": "Cayman Islands",
+      "postalCode": "/KY\\d{1}-\\d{4}/",
+      "postalCodeExample": "KY1-0001",
+      "shortName": "CYM"
+    },
+    {
+      "fullName": "Curaçao",
+      "onePostalCode": true,
+      "postalCode": "/CW/",
+      "postalCodeExample": "CW",
+      "shortName": "CUW"
+    },
+    {
+      "fullName": "Dominica",
+      "onePostalCode": true,
+      "postalCode": "/DM/",
+      "postalCodeExample": "DM",
+      "shortName": "DMA"
+    },
+    {
+      "fullName": "Dominican Republic",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "10101",
+      "shortName": "DOM"
+    },
+    {
+      "fullName": "Grenada",
+      "onePostalCode": true,
+      "postalCode": "/GD/",
+      "postalCodeExample": "GW",
+      "shortName": "GRD"
+    },
+    {
+      "fullName": "Jamaica",
+      "postalCode": "/JM[A-Z]{3}\\d{2}/",
+      "postalCodeExample": "JMAAW01",
+      "shortName": "JAM"
+    },
+    {
+      "fullName": "Puerto Rico",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "00601",
+      "shortName": "PRI"
+    },
+    {
+      "fullName": "Saint Martin",
+      "onePostalCode": true,
+      "postalCode": "/97150/",
+      "postalCodeExample": "97150",
+      "shortName": "MAF"
+    },
+    {
+      "fullName": "Saint Vincent/Grenadines",
+      "postalCode": "/VC\\d{4}/",
+      "postalCodeExample": "VC0100",
+      "shortName": "VCT"
+    },
+    {
+      "fullName": "St. Kitts and Nevis",
+      "onePostalCode": true,
+      "postalCode": "/KN/",
+      "postalCodeExample": "KN",
+      "shortName": "KNA"
+    },
+    {
+      "fullName": "St. Lucia",
+      "onePostalCode": true,
+      "postalCode": "/LC/",
+      "postalCodeExample": "LC",
+      "shortName": "LCA"
+    },
+    {
+      "fullName": "Trinidad and Tobago",
+      "onePostalCode": true,
+      "postalCode": "/TT/",
+      "postalCodeExample": "TT",
+      "shortName": "TTO"
+    },
+    {
+      "fullName": "Turks and Caicos",
+      "onePostalCode": true,
+      "postalCode": "/TKCA1ZZ/",
+      "postalCodeExample": "TKCA1ZZ",
+      "shortName": "TCA"
+    }
+  ],
+  "Europe": [
+    {
+      "fullName": "Austria",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "6886",
+      "shortName": "AUT"
+    },
+    {
+      "fullName": "Belgium",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "2018",
+      "shortName": "BEL"
+    },
+    {
+      "fullName": "Switzerland",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "3303",
+      "shortName": "CHE"
+    },
+    {
+      "fullName": "Germany",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "14050",
+      "shortName": "DEU"
+    },
+    {
+      "fullName": "Denmark",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "9260",
+      "shortName": "DNK"
+    },
+    {
+      "fullName": "Spain",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "28001",
+      "shortName": "ESP"
+    },
+    {
+      "fullName": "Finland",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "91980",
+      "shortName": "FIN"
+    },
+    {
+      "fullName": "France",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "38800",
+      "shortName": "FRA"
+    },
+    {
+      "fullName": "Great Britain",
+      "postalCode": "/[A-Z]{1,2}\\d{1,2}/",
+      "postalCodeExample": "CF31",
+      "shortName": "GBR"
+    },
+    {
+      "fullName": "Ireland",
+      "postalCode": "/[A-Z]{1}\\d{2}/",
+      "postalCodeExample": "D01",
+      "shortName": "IRL"
+    },
+    {
+      "fullName": "Italy",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "00100",
+      "shortName": "ITA"
+    },
+    {
+      "fullName": "The Netherlands",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "1018",
+      "shortName": "NLD"
+    },
+    {
+      "fullName": "Luxembourg",
+      "onePostalCode": true,
+      "postalCode": "/LU/",
+      "postalCodeExample": "LU",
+      "shortName": "LUX"
+    },
+    {
+      "fullName": "Norway",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "0001",
+      "shortName": "NOR"
+    },
+    {
+      "fullName": "Poland",
+      "postalCode": "/\\d{2}-\\d{3}/",
+      "postalCodeExample": "00-008",
+      "shortName": "POL"
+    },
+    {
+      "fullName": "Sweden",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "10005",
+      "shortName": "SWE"
+    }
+  ],
+  "Latin America": [
+    {
+      "fullName": "Argentina",
+      "postalCode": "/[A-Z]\\d{4}/",
+      "postalCodeExample": "A4190",
+      "shortName": "ARG"
+    },
+    {
+      "fullName": "Belize",
+      "onePostalCode": true,
+      "postalCode": "/BZ/",
+      "postalCodeExample": "BZ",
+      "shortName": "BLZ"
+    },
+    {
+      "fullName": "Brazil",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "01419",
+      "shortName": "BRA"
+    },
+    {
+      "fullName": "Chile",
+      "postalCode": "/\\d{7}/",
+      "postalCodeExample": "1000000",
+      "shortName": "CHL"
+    },
+    {
+      "fullName": "Colombia",
+      "postalCode": "/\\d{6}/",
+      "postalCodeExample": "684001",
+      "shortName": "COL"
+    },
+    {
+      "fullName": "Costa Rica",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "10101",
+      "shortName": "CRI"
+    },
+    {
+      "fullName": "Ecuador",
+      "postalCode": "/\\d{6}/",
+      "postalCodeExample": "170950",
+      "shortName": "ECU"
+    },
+    {
+      "fullName": "Guatemala",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "01001",
+      "shortName": "GTM"
+    },
+    {
+      "fullName": "Guyana",
+      "onePostalCode": true,
+      "postalCode": "/GY/",
+      "postalCodeExample": "GY",
+      "shortName": "GUY"
+    },
+    {
+      "fullName": "Honduras",
+      "onePostalCode": true,
+      "postalCode": "/HN/",
+      "postalCodeExample": "HN",
+      "shortName": "HND"
+    },
+    {
+      "fullName": "Mexico",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "11500",
+      "shortName": "MEX"
+    },
+    {
+      "fullName": "Panama",
+      "onePostalCode": true,
+      "postalCode": "/PA/",
+      "postalCodeExample": "PA",
+      "shortName": "PAN"
+    },
+    {
+      "fullName": "Peru",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "23006",
+      "shortName": "PER"
+    },
+    {
+      "fullName": "Uruguay",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "11000",
+      "shortName": "URY"
+    },
+    {
+      "fullName": "Venezuela",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "1010",
+      "shortName": "VEN"
+    }
+  ],
+  "North America": [
+    {
+      "fullName": "United States",
+      "postalCode": "/\\d{5}/",
+      "postalCodeExample": "12345",
+      "shortName": "USA"
+    },
+    {
+      "fullName": "Canada",
+      "postalCode": "/[A-Z]{1}[\\d]{1}[A-Z]{1}[\\d]{1}[A-Z]{1}[\\d]{1}/gm",
+      "postalCodeExample": "K1A0B1",
+      "shortName": "CAN"
+    }
+  ],
+  "Oceania": [
+    {
+      "fullName": "Australia",
+      "postalCode": "/\\d{4}/",
+      "postalCodeExample": "2000",
+      "shortName": "AUS"
+    }
+  ]
+}

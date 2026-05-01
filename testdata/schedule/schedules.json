@@ -1,0 +1,3014 @@
+[
+  {
+    "metadata": {
+      "hash": "6082ef124daedb5a1df965c6cd451bfd",
+      "md5": "YILvEk2u21od+WXGzUUb/Q",
+      "modified": "2026-04-20T13:40:18Z",
+      "modifiedEpoch": 1776692418,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:00:00Z",
+        "duration": 3900,
+        "hash": "cc544b7aeda7ee88678f77cc7d01c4e2",
+        "md5": "zFRLeu2n7ohnj3fMfQHE4g",
+        "programID": "EP062567750001",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:05:00Z",
+        "duration": 4020,
+        "hash": "cc544b7aeda7ee88678f77cc7d01c4e2",
+        "md5": "zFRLeu2n7ohnj3fMfQHE4g",
+        "programID": "EP062567750001",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:12:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 3120,
+        "hash": "d5e523345bfdf459bca0188da89c7198",
+        "md5": "1eUjNFv99Fm8oBiNqJxxmA",
+        "programID": "EP018631990001",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:04:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "e415c0cc2e0a396056cdc0961bfe3ee2",
+        "md5": "5BXAzC4KOWBWzcCWG/4+4g",
+        "programID": "EP018631990005",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:51:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "b4c7d06cbbcd11ad14d7a4df9a044691",
+        "md5": "tMfQbLvNEa0U16TfmgRGkQ",
+        "programID": "EP018631990004",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:38:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "ed52aeca59acf33ccfb54b6fe5ef63dc",
+        "md5": "7VKuylms8zzPtUtv5e9j3A",
+        "programID": "EP018631990003",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:25:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "a2314024b28a657db044247641950507",
+        "md5": "ojFAJLKKZX2wRCR2QZUFBw",
+        "programID": "EP018631990002",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T06:12:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2880,
+        "hash": "5ad67f080e2ca2af7bda58823aeefceb",
+        "md5": "WtZ/CA4soq972liCOu786w",
+        "programID": "EP018631990008",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2760,
+        "hash": "8699ca50eaed54b324a52153f783b95d",
+        "md5": "hpnKUOrtVLMkpSFT94O5XQ",
+        "programID": "EP018631990006",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:46:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2760,
+        "hash": "0b5587020e5bc9273aae87317527aa36",
+        "md5": "C1WHAg5bySc6rocxdSeqNg",
+        "programID": "EP018631990009",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:32:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2700,
+        "hash": "84edf2e91e31e198e3bca07b2073746f",
+        "md5": "hO3y6R4x4ZjjvKB7IHN0bw",
+        "programID": "EP018631990007",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:17:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2580,
+        "hash": "a712c2a46b927d4a38d342087f76cf91",
+        "md5": "pxLCpGuSfUo400IIf3bPkQ",
+        "programID": "EP018631990010",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1260,
+        "hash": "22618021c6f9970faadb0ae71bc4d324",
+        "md5": "ImGAIcb5lw+q2wrnG8TTJA",
+        "programID": "EP015157020007",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:21:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2700,
+        "hash": "4e4b6ca48bcd2b9980fbf1754d8ea510",
+        "md5": "TktspIvNK5mA+/F1TY6lEA",
+        "programID": "EP018631990016",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:06:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "9a5b745ea9f85dd3a47f068bdecc154f",
+        "md5": "mlt0Xqn4XdOkfwaL3swVTw",
+        "programID": "EP018631990017",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:50:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "23a65b4c0cbb08b2d047215697583eeb",
+        "md5": "I6ZbTAy7CLLQRyFWl1g+6w",
+        "programID": "EP018631990019",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:34:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "f64a70c0c33c7d5041de6bcad5f4667d",
+        "md5": "9kpwwMM8fVBB3mvK1fRmfQ",
+        "programID": "EP018631990012",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:18:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2580,
+        "hash": "d79927c93cb6fa98fc0206b878d9734f",
+        "md5": "15knyTy2+pj8Aga4eNlzTw",
+        "programID": "EP018631990021",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:01:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2700,
+        "hash": "dbcfe20fb0a79f72ee41c01ccec46d9f",
+        "md5": "28/iD7Cnn3LuQcAczsRtnw",
+        "programID": "EP018631990022",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:46:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "695fc8bbc7addc9f4d9de242e8b76f01",
+        "md5": "aV/Iu8et3J9NneJC6LdvAQ",
+        "programID": "EP018631990023",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T15:33:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "e4696d4b35e659526947c3357637a551",
+        "md5": "5GltSzXmWVJpR8M1djelUQ",
+        "programID": "EP018631990013",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:17:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "020af680cd5fa6c87e50a8cd2c04f4d8",
+        "md5": "Agr2gM1fpsh+UKjNLAT02A",
+        "programID": "EP018631990014",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:01:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "4e89ed6e509d029522a176c695501673",
+        "md5": "TontblCdApUioXbGlVAWcw",
+        "programID": "EP018631990015",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:45:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2760,
+        "hash": "4e4b6ca48bcd2b9980fbf1754d8ea510",
+        "md5": "TktspIvNK5mA+/F1TY6lEA",
+        "programID": "EP018631990016",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:31:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "9a5b745ea9f85dd3a47f068bdecc154f",
+        "md5": "mlt0Xqn4XdOkfwaL3swVTw",
+        "programID": "EP018631990017",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:15:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "23a65b4c0cbb08b2d047215697583eeb",
+        "md5": "I6ZbTAy7CLLQRyFWl1g+6w",
+        "programID": "EP018631990019",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:59:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "f64a70c0c33c7d5041de6bcad5f4667d",
+        "md5": "9kpwwMM8fVBB3mvK1fRmfQ",
+        "programID": "EP018631990012",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:43:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2580,
+        "hash": "d79927c93cb6fa98fc0206b878d9734f",
+        "md5": "15knyTy2+pj8Aga4eNlzTw",
+        "programID": "EP018631990021",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:26:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2640,
+        "hash": "dbcfe20fb0a79f72ee41c01ccec46d9f",
+        "md5": "28/iD7Cnn3LuQcAczsRtnw",
+        "programID": "EP018631990022",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:10:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 2820,
+        "hash": "695fc8bbc7addc9f4d9de242e8b76f01",
+        "md5": "aV/Iu8et3J9NneJC6LdvAQ",
+        "programID": "EP018631990023",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:57:00Z",
+        "duration": 3780,
+        "hash": "cc544b7aeda7ee88678f77cc7d01c4e2",
+        "md5": "zFRLeu2n7ohnj3fMfQHE4g",
+        "programID": "EP062567750001",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      }
+    ],
+    "stationID": "10000001"
+  },
+  {
+    "metadata": {
+      "hash": "7920fcaf47f7b6113da40ea1a0566563",
+      "md5": "eSD8r0f3thE9pA6hoFZlYw",
+      "modified": "2026-04-20T22:40:59Z",
+      "modifiedEpoch": 1776724859,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:05:00Z",
+        "duration": 7200,
+        "hash": "f834055ea8e0ae321f006ee2d09386f0",
+        "md5": "+DQFXqjgrjIfAG7i0JOG8A",
+        "programID": "MV007189950000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:05:00Z",
+        "duration": 5520,
+        "hash": "63b4a954e4c41e3472d711652400bcdf",
+        "md5": "Y7SpVOTEHjRy1xFlJAC83w",
+        "programID": "MV004591280000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:37:00Z",
+        "duration": 6660,
+        "hash": "0b8d84e5524a2e78c1d168e3e09bc315",
+        "md5": "C42E5VJKLnjB0Wjj4JvDFQ",
+        "programID": "MV005590620000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:28:00Z",
+        "duration": 6420,
+        "hash": "014c027022fc86cd95cb58b7db4de480",
+        "md5": "AUwCcCL8hs2Vy1i3203kgA",
+        "programID": "MV013011260000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:15:00Z",
+        "duration": 6600,
+        "hash": "0a03f5693bfe051b9f4c7369398a8a69",
+        "md5": "CgP1aTv+BRufTHNpOYqKaQ",
+        "programID": "MV014219490000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:05:00Z",
+        "duration": 6360,
+        "hash": "1f300018609760d0677adef7700eeea3",
+        "md5": "HzAAGGCXYNBnet73cA7uow",
+        "programID": "MV005879520000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:51:00Z",
+        "duration": 6360,
+        "hash": "a27e520d532d46d94d6790c5591bff56",
+        "md5": "on5SDVMtRtlNZ5DFWRv/Vg",
+        "programID": "MV003932880000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:37:00Z",
+        "duration": 6840,
+        "hash": "d978a5cc664bb42558ade27ef5ad0853",
+        "md5": "2XilzGZLtCVYreJ+9a0IUw",
+        "programID": "MV003809260000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:31:00Z",
+        "duration": 7680,
+        "hash": "c3b73a78b760c3443be54b8c773c20a4",
+        "md5": "w7c6eLdgw0Q75UuMdzwgpA",
+        "programID": "MV002671910000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:39:00Z",
+        "duration": 6360,
+        "hash": "aeb33e5240b999e5b617004ee6b2cb4b",
+        "md5": "rrM+UkC5meW2FwBO5rLLSw",
+        "programID": "MV002720650000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:25:00Z",
+        "duration": 6240,
+        "hash": "19cd3a3db1c262fba31fa8d10a4b1675",
+        "md5": "Gc06PbHCYvujH6jRCksWdQ",
+        "programID": "MV006019780000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:09:00Z",
+        "duration": 6180,
+        "hash": "4611121643bf72a88ed64c2e471b438a",
+        "md5": "RhESFkO/cqiO1kwuRxtDig",
+        "programID": "MV005181720000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:52:00Z",
+        "duration": 5400,
+        "hash": "5ed9b1944e4fb01e8c3887331b123e33",
+        "md5": "XtmxlE5PsB6MOIczGxI+Mw",
+        "programID": "MV010154010000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:22:00Z",
+        "duration": 6540,
+        "hash": "2d71247dd43c050bc9f9546f2c02ac77",
+        "md5": "LXEkfdQ8BQvJ+VRvLAKsdw",
+        "programID": "MV014219370000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000002"
+  },
+  {
+    "metadata": {
+      "hash": "e1786e5d9bc544bea6e128610af37246",
+      "md5": "4XhuXZvFRL6m4ShhCvNyRg",
+      "modified": "2026-04-10T22:34:51Z",
+      "modifiedEpoch": 1775860491,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:41:00Z",
+        "duration": 3060,
+        "hash": "6f08face5f6d81f38f26b0f022801539",
+        "md5": "bwj6zl9tgfOPJrDwIoAVOQ",
+        "programID": "EP026069290113",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:32:00Z",
+        "duration": 3060,
+        "hash": "1af7cc4aac85435b6e626da6d308965a",
+        "md5": "GvfMSqyFQ1tuYm2m0wiWWg",
+        "programID": "EP026069290114",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:23:00Z",
+        "duration": 3060,
+        "hash": "cd2931ce6c7e0ba9bd2e5013f74e5bc0",
+        "md5": "zSkxzmx+C6m9LlAT905bwA",
+        "programID": "EP026069290115",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:14:00Z",
+        "duration": 3060,
+        "hash": "46bf25f0eb82ad0d10189768ce0ee343",
+        "md5": "Rr8l8OuCrQ0QGJdozg7jQw",
+        "programID": "EP026069290116",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:05:00Z",
+        "duration": 3120,
+        "hash": "3bf4474ef0c3ea7d97e4604565d77eeb",
+        "md5": "O/RHTvDD6n2X5GBFZdd+6w",
+        "programID": "EP026069290140",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:57:00Z",
+        "duration": 3000,
+        "hash": "a87b1fc67588148b0d0f1a5601198797",
+        "md5": "qHsfxnWIFIsNDxpWARmHlw",
+        "programID": "EP026069290118",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:47:00Z",
+        "duration": 3060,
+        "hash": "b0e17d57cf1c7cae99fb45ae0f447c6a",
+        "md5": "sOF9V88cfK6Z+0WuD0R8ag",
+        "programID": "EP026069290119",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T06:38:00Z",
+        "duration": 3060,
+        "hash": "5ba93fdbfe64b73ed25a6a9af8b11a6c",
+        "md5": "W6k/2/5ktz7SWmqa+LEabA",
+        "programID": "EP026069290120",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:29:00Z",
+        "duration": 3060,
+        "hash": "4a1588f63d6d3c98e281ad795a19a00e",
+        "md5": "ShWI9j1tPJjiga15WhmgDg",
+        "programID": "EP026069290121",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:20:00Z",
+        "duration": 3060,
+        "hash": "a31e1f0a9fddae873e3446781799a600",
+        "md5": "ox4fCp/droc+NEZ4F5mmAA",
+        "programID": "EP026069290122",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:11:00Z",
+        "duration": 3060,
+        "hash": "3ba2d064d1bf08146d3e85c9e4aeb2a3",
+        "md5": "O6LQZNG/CBRtPoXJ5K6yow",
+        "programID": "EP026069290123",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:02:00Z",
+        "duration": 3120,
+        "hash": "3bf4474ef0c3ea7d97e4604565d77eeb",
+        "md5": "O/RHTvDD6n2X5GBFZdd+6w",
+        "programID": "EP026069290140",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:54:00Z",
+        "duration": 3840,
+        "hash": "166dc0f087ba661fa9acd840659949bc",
+        "md5": "Fm3A8Ie6Zh+prNhAZZlJvA",
+        "programID": "EP026069290001",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:58:00Z",
+        "duration": 3420,
+        "hash": "c0e6a01fddb082ba97ad788319385cdb",
+        "md5": "wOagH92wgrqXrXiDGThc2w",
+        "programID": "EP026069290002",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:55:00Z",
+        "duration": 3060,
+        "hash": "8b3c8323fb772d5ba24f19fb272eeabe",
+        "md5": "izyDI/t3LVuiTxn7Jy7qvg",
+        "programID": "EP026069290003",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:46:00Z",
+        "duration": 3420,
+        "hash": "64cacc06f5f618db06535b1fedbf32f9",
+        "md5": "ZMrMBvX2GNsGU1sf7b8y+Q",
+        "programID": "EP026069290004",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:43:00Z",
+        "duration": 3420,
+        "hash": "a0ab44c04e509d863f4ab52bc61e2200",
+        "md5": "oKtEwE5QnYY/SrUrxh4iAA",
+        "programID": "EP026069290005",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T15:40:00Z",
+        "duration": 3420,
+        "hash": "bf6d2697a587acc589882fd2453f0dee",
+        "md5": "v20ml6WHrMWJiC/SRT8N7g",
+        "programID": "EP026069290006",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:37:00Z",
+        "duration": 3420,
+        "hash": "a39f8c393f12cc63f9e5945de2add2c7",
+        "md5": "o5+MOT8SzGP55ZRd4q3Sxw",
+        "programID": "EP026069290007",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:34:00Z",
+        "duration": 3120,
+        "hash": "3bf4474ef0c3ea7d97e4604565d77eeb",
+        "md5": "O/RHTvDD6n2X5GBFZdd+6w",
+        "programID": "EP026069290140",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:26:00Z",
+        "duration": 3060,
+        "hash": "e86674561eeef484af20725e66033efc",
+        "md5": "6GZ0Vh7u9ISvIHJeZgM+/A",
+        "programID": "EP026069290012",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:17:00Z",
+        "duration": 3060,
+        "hash": "ff686277e31990568fb81b3008c93172",
+        "md5": "/2hid+MZkFaPuBswCMkxcg",
+        "programID": "EP026069290013",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:08:00Z",
+        "duration": 3060,
+        "hash": "45b878184958a1006ee0fc75d00dea39",
+        "md5": "Rbh4GElYoQBu4Px10A3qOQ",
+        "programID": "EP026069290014",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:59:00Z",
+        "duration": 3120,
+        "hash": "51c6d53da3c37efad2642ea2502a9e5c",
+        "md5": "UcbVPaPDfvrSZC6iUCqeXA",
+        "programID": "EP026069290015",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:51:00Z",
+        "duration": 3060,
+        "hash": "c7857e207eadfbddfe701257f26ab8c6",
+        "md5": "x4V+IH6t+93+cBJX8mq4xg",
+        "programID": "EP026069290016",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:42:00Z",
+        "duration": 3060,
+        "hash": "7feb11b6508af5abdbcdcd6867ab56b7",
+        "md5": "f+sRtlCK9avbzc1oZ6tWtw",
+        "programID": "EP026069290017",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:33:00Z",
+        "duration": 3060,
+        "hash": "31bb0d779ba00edcd72c8773998a070c",
+        "md5": "MbsNd5ugDtzXLIdzmYoHDA",
+        "programID": "EP026069290019",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TV14"
+          }
+        ],
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000003"
+  },
+  {
+    "metadata": {
+      "hash": "b7b2af57d7159b93bfab3bf38dd93f3e",
+      "md5": "t7KvV9cVm5O/qzvzjdk/Pg",
+      "modified": "2026-04-19T23:00:11Z",
+      "modifiedEpoch": 1776639611,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:11:00Z",
+        "duration": 2340,
+        "hash": "c194f4157a12e941b01bc3832bdc328a",
+        "md5": "wZT0FXoS6UGwG8ODK9wyig",
+        "programID": "SH027998650000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T00:50:00Z",
+        "duration": 2280,
+        "hash": "c194f4157a12e941b01bc3832bdc328a",
+        "md5": "wZT0FXoS6UGwG8ODK9wyig",
+        "programID": "SH027998650000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:28:00Z",
+        "duration": 3900,
+        "hash": "23f7bb85195aa6a7f80583457cfc521a",
+        "md5": "I/e7hRlapqf4BYNFfPxSGg",
+        "programID": "SH063309430000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:33:00Z",
+        "duration": 3840,
+        "hash": "ddccb2f1c81bf8160e484dc80ede5668",
+        "md5": "3cyy8cgb+BYOSE3IDt5WaA",
+        "programID": "SH039529830000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:37:00Z",
+        "duration": 4920,
+        "hash": "8c5bfecf3b99e03e48a19f4495b5a37c",
+        "md5": "jFv+zzuZ4D5IoZ9ElbWjfA",
+        "programID": "SH026051480000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:59:00Z",
+        "duration": 2040,
+        "hash": "1e3d0eefdfb91665dec037a9a22638aa",
+        "md5": "Hj0O79+5FmXewDepoiY4qg",
+        "programID": "SH020843580000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:33:00Z",
+        "duration": 3180,
+        "hash": "9f9c20b62a77943fd92e69e1da9575c0",
+        "md5": "n5wgtip3lD/ZLmnh2pV1wA",
+        "programID": "SH012498290000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T06:26:00Z",
+        "duration": 3900,
+        "hash": "23f7bb85195aa6a7f80583457cfc521a",
+        "md5": "I/e7hRlapqf4BYNFfPxSGg",
+        "programID": "SH063309430000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:31:00Z",
+        "duration": 8100,
+        "hash": "ddccb2f1c81bf8160e484dc80ede5668",
+        "md5": "3cyy8cgb+BYOSE3IDt5WaA",
+        "programID": "SH039529830000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:46:00Z",
+        "duration": 2280,
+        "hash": "3078056a1f641351a113e7b27bdb9918",
+        "md5": "MHgFah9kE1GhE+eye9uZGA",
+        "programID": "SH034783420000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:24:00Z",
+        "duration": 4140,
+        "hash": "ddccb2f1c81bf8160e484dc80ede5668",
+        "md5": "3cyy8cgb+BYOSE3IDt5WaA",
+        "programID": "SH039529830000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:33:00Z",
+        "duration": 2280,
+        "hash": "c194f4157a12e941b01bc3832bdc328a",
+        "md5": "wZT0FXoS6UGwG8ODK9wyig",
+        "programID": "SH027998650000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:11:00Z",
+        "duration": 2880,
+        "hash": "1e3d0eefdfb91665dec037a9a22638aa",
+        "md5": "Hj0O79+5FmXewDepoiY4qg",
+        "programID": "SH020843580000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:59:00Z",
+        "duration": 2460,
+        "hash": "1e3d0eefdfb91665dec037a9a22638aa",
+        "md5": "Hj0O79+5FmXewDepoiY4qg",
+        "programID": "SH020843580000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:40:00Z",
+        "duration": 4140,
+        "hash": "ddccb2f1c81bf8160e484dc80ede5668",
+        "md5": "3cyy8cgb+BYOSE3IDt5WaA",
+        "programID": "SH039529830000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:49:00Z",
+        "duration": 1620,
+        "hash": "edafa820deecdf601f8293facd9002a8",
+        "md5": "7a+oIN7s32AfgpP6zZACqA",
+        "programID": "EP051751880005",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T15:16:00Z",
+        "duration": 2760,
+        "hash": "b5cfb2b359bfee94e2dfb1ee72d8af74",
+        "md5": "tc+ys1m/7pTi37HuctivdA",
+        "programID": "SH037635870000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:02:00Z",
+        "duration": 1200,
+        "hash": "b5cfb2b359bfee94e2dfb1ee72d8af74",
+        "md5": "tc+ys1m/7pTi37HuctivdA",
+        "programID": "SH037635870000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:22:00Z",
+        "duration": 2880,
+        "hash": "b5cfb2b359bfee94e2dfb1ee72d8af74",
+        "md5": "tc+ys1m/7pTi37HuctivdA",
+        "programID": "SH037635870000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:10:00Z",
+        "duration": 2820,
+        "hash": "b5cfb2b359bfee94e2dfb1ee72d8af74",
+        "md5": "tc+ys1m/7pTi37HuctivdA",
+        "programID": "SH037635870000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:57:00Z",
+        "duration": 4560,
+        "hash": "e48a24b993fb37760cbf69cc79bbf11f",
+        "md5": "5IokuZP7N3YMv2nMebvxHw",
+        "programID": "SH049916420000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:13:00Z",
+        "duration": 1140,
+        "hash": "c10ad7957c84a7adff2b3bf7a3e733d8",
+        "md5": "wQrXlXyEp63/Kzv3o+cz2A",
+        "programID": "SH028513580000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:32:00Z",
+        "duration": 2460,
+        "hash": "c10ad7957c84a7adff2b3bf7a3e733d8",
+        "md5": "wQrXlXyEp63/Kzv3o+cz2A",
+        "programID": "SH028513580000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:13:00Z",
+        "duration": 4140,
+        "hash": "ddccb2f1c81bf8160e484dc80ede5668",
+        "md5": "3cyy8cgb+BYOSE3IDt5WaA",
+        "programID": "SH039529830000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:22:00Z",
+        "duration": 4320,
+        "hash": "b5cfb2b359bfee94e2dfb1ee72d8af74",
+        "md5": "tc+ys1m/7pTi37HuctivdA",
+        "programID": "SH037635870000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:34:00Z",
+        "duration": 4620,
+        "hash": "d6551a8c06b427543fef11f2a3e1a820",
+        "md5": "1lUajAa0J1Q/7xHyo+GoIA",
+        "programID": "SH041966150000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:51:00Z",
+        "duration": 3420,
+        "hash": "c194f4157a12e941b01bc3832bdc328a",
+        "md5": "wZT0FXoS6UGwG8ODK9wyig",
+        "programID": "SH027998650000",
+        "videoProperties": [
+          "HD 720p",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000004"
+  },
+  {
+    "metadata": {
+      "hash": "f1f88d9a643200345510df17b5a2a2da",
+      "md5": "8fiNmmQyADRVEN8XtaKi2g",
+      "modified": "2026-04-03T01:07:28Z",
+      "modifiedEpoch": 1775178448,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:35:00Z",
+        "duration": 3300,
+        "hash": "da1002fcbd9372437d01cbe1c0a56b29",
+        "md5": "2hAC/L2TckN9AcvhwKVrKQ",
+        "programID": "SH038801240000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:30:00Z",
+        "duration": 3540,
+        "hash": "06c235a8a2f5c270cfdc4a52007ade2e",
+        "md5": "BsI1qKL1wnDP3EpSAHreLg",
+        "programID": "SH036240920000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:29:00Z",
+        "duration": 1980,
+        "hash": "eac7d77a8c6d5acbc3def545a9fc0f72",
+        "md5": "6sfXeoxtWsvD3vVFqfwPcg",
+        "programID": "SH038801170000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:02:00Z",
+        "duration": 2160,
+        "hash": "2c6caf9915cc3dde18e310cbabb62388",
+        "md5": "LGyvmRXMPd4Y4xDLq7YjiA",
+        "programID": "SH036240890000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:38:00Z",
+        "duration": 1620,
+        "hash": "2c6caf9915cc3dde18e310cbabb62388",
+        "md5": "LGyvmRXMPd4Y4xDLq7YjiA",
+        "programID": "SH036240890000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:05:00Z",
+        "duration": 2040,
+        "hash": "eac7d77a8c6d5acbc3def545a9fc0f72",
+        "md5": "6sfXeoxtWsvD3vVFqfwPcg",
+        "programID": "SH038801170000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:39:00Z",
+        "duration": 2820,
+        "hash": "06c235a8a2f5c270cfdc4a52007ade2e",
+        "md5": "BsI1qKL1wnDP3EpSAHreLg",
+        "programID": "SH036240920000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:26:00Z",
+        "duration": 1920,
+        "hash": "804d8937fe880b87fb7d37efaad14d7d",
+        "md5": "gE2JN/6IC4f7fTfvqtFNfQ",
+        "programID": "SH038801270000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:58:00Z",
+        "duration": 5520,
+        "hash": "a71e845b674470af45976bc529c6c8a3",
+        "md5": "px6EW2dEcK9Fl2vFKcbIow",
+        "programID": "SH038801260000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:30:00Z",
+        "duration": 2520,
+        "hash": "06c235a8a2f5c270cfdc4a52007ade2e",
+        "md5": "BsI1qKL1wnDP3EpSAHreLg",
+        "programID": "SH036240920000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:12:00Z",
+        "duration": 1620,
+        "hash": "2c6caf9915cc3dde18e310cbabb62388",
+        "md5": "LGyvmRXMPd4Y4xDLq7YjiA",
+        "programID": "SH036240890000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:39:00Z",
+        "duration": 3120,
+        "hash": "340baa784fb364e4d9aaa5d447e4fce2",
+        "md5": "NAuqeE+zZOTZqqXUR+T84g",
+        "programID": "SH036241040000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:31:00Z",
+        "duration": 1800,
+        "hash": "804d8937fe880b87fb7d37efaad14d7d",
+        "md5": "gE2JN/6IC4f7fTfvqtFNfQ",
+        "programID": "SH038801270000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:01:00Z",
+        "duration": 3960,
+        "hash": "a71e845b674470af45976bc529c6c8a3",
+        "md5": "px6EW2dEcK9Fl2vFKcbIow",
+        "programID": "SH038801260000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:07:00Z",
+        "duration": 1980,
+        "hash": "eac7d77a8c6d5acbc3def545a9fc0f72",
+        "md5": "6sfXeoxtWsvD3vVFqfwPcg",
+        "programID": "SH038801170000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:40:00Z",
+        "duration": 1800,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:10:00Z",
+        "duration": 3120,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:02:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:36:00Z",
+        "duration": 2340,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:15:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:49:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T15:27:00Z",
+        "duration": 2100,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:02:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:40:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:14:00Z",
+        "duration": 2340,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:53:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:27:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:05:00Z",
+        "duration": 2100,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:40:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:18:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:52:00Z",
+        "duration": 2340,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:31:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:05:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:43:00Z",
+        "duration": 2100,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:18:00Z",
+        "duration": 2280,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:56:00Z",
+        "duration": 2040,
+        "hash": "03f9fc3a31f82c27fd6f7b91249a86b5",
+        "md5": "A/n8OjH4LCf9b3uRJJqGtQ",
+        "programID": "SH036904120000",
+        "videoProperties": [
+          "HD 1080i",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000005"
+  },
+  {
+    "metadata": {
+      "hash": "2871b582e6921d6f54cbe37f5a25eb62",
+      "md5": "KHG1guaSHW9Uy+N/WiXrYg",
+      "modified": "2026-04-03T01:08:13Z",
+      "modifiedEpoch": 1775178493,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T01:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:00:00Z",
+        "duration": 14400,
+        "hash": "963ec14630977ea3fb45d8aa48f16124",
+        "md5": "lj7BRjCXfqP7RdiqSPFhJA",
+        "programID": "SH032854970000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVMA"
+          }
+        ],
+        "videoProperties": [
+          "HD Unknown",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000006"
+  },
+  {
+    "metadata": {
+      "hash": "3c97eb323f54fc4af9e7bede50f83a27",
+      "md5": "PJfrMj9U/Er5577eUPg6Jw",
+      "modified": "2026-04-16T01:01:24Z",
+      "modifiedEpoch": 1776301284,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:00:00Z",
+        "duration": 4500,
+        "hash": "e1a9c67a8cfb87250c638d884f76feac",
+        "md5": "4anGeoz7hyUMY42IT3b+rA",
+        "programID": "EP047776280172",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:15:00Z",
+        "duration": 900,
+        "hash": "3923ba5cb9e432f2f667edf69f6dc57b",
+        "md5": "OSO6XLnkMvL2Z+32n23Few",
+        "programID": "SH047128760000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:30:00Z",
+        "duration": 4500,
+        "hash": "c6d1b0cf62cc476e7a010bb6dc695721",
+        "md5": "xtGwz2LMR256AQu23GlXIQ",
+        "programID": "EP050661570085",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:45:00Z",
+        "duration": 900,
+        "hash": "60e78c9f391fdd646c6211d917de41e6",
+        "md5": "YOeMnzkf3WRsYhHZF95B5g",
+        "programID": "SH047559350000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:00:00Z",
+        "duration": 1800,
+        "hash": "f9262ef98340f689a6323fa7130d441e",
+        "md5": "+SYu+YNA9ommMj+nEw1EHg",
+        "programID": "SH061110320000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:30:00Z",
+        "duration": 1800,
+        "hash": "117630c10f3fd1f6fe5e68727afd85ee",
+        "md5": "EXYwwQ8/0fb+Xmhyev2F7g",
+        "programID": "EP040657340005",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:00:00Z",
+        "duration": 1800,
+        "hash": "0b7e07a697d91f9245891e681e417efc",
+        "md5": "C34HppfZH5JFiR5oHkF+/A",
+        "programID": "EP040652990003",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:30:00Z",
+        "duration": 1800,
+        "hash": "70c60901218f3bcea9ddd6ef102b5293",
+        "md5": "cMYJASGPO86p3dbvECtSkw",
+        "programID": "EP040656650002",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:00:00Z",
+        "duration": 1800,
+        "hash": "eae753b906f68704f560f7634ede7370",
+        "md5": "6udTuQb2hwT1YPdjTt5zcA",
+        "programID": "EP040656290001",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:30:00Z",
+        "duration": 900,
+        "hash": "b51a40504d79647bca9bb45285c32212",
+        "md5": "tRpAUE15ZHvKm7RShcMiEg",
+        "programID": "SH054919280000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T05:45:00Z",
+        "duration": 4500,
+        "hash": "9f617bc7792bdb9eecace1cd6794d504",
+        "md5": "n2F7x3kr257srOHNZ5TVBA",
+        "programID": "EP040658320061",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:00:00Z",
+        "duration": 1800,
+        "hash": "80dfe5ade7e41b7d43c143bd76681da6",
+        "md5": "gN/lrefkG31DwUO9dmgdpg",
+        "programID": "SH043015060000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:30:00Z",
+        "duration": 1800,
+        "hash": "b7042d65858ee40a89b13ebe0ecc1034",
+        "md5": "twQtZYWO5AqJsT6+DswQNA",
+        "programID": "SH043808390000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:00:00Z",
+        "duration": 900,
+        "hash": "d1bb066650e2ec0ac32d3697c4026646",
+        "md5": "0bsGZlDi7ArDLTaXxAJmRg",
+        "programID": "SH044310070000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:15:00Z",
+        "duration": 1800,
+        "hash": "def269f4462c1039152f32b00844c5fa",
+        "md5": "3vJp9EYsEDkVLzKwCETF+g",
+        "programID": "SH044786480000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:45:00Z",
+        "duration": 4500,
+        "hash": "931c930e52a84b70166a876c59b02ba1",
+        "md5": "kxyTDlKoS3AWaodsWbAroQ",
+        "programID": "SH044286260000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:00:00Z",
+        "duration": 9000,
+        "hash": "cbda868d4b9a220ca0ad4f659b175210",
+        "md5": "y9qGjUuaIgygrU9lmxdSEA",
+        "programID": "EP040659600327",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:30:00Z",
+        "duration": 1800,
+        "hash": "87eba2856ea37f850a16d7ca69b80d61",
+        "md5": "h+uihW6jf4UKFtfKabgNYQ",
+        "programID": "SH061110300000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:00:00Z",
+        "duration": 5400,
+        "hash": "1177fd00ad4ad338708b50a5416f6573",
+        "md5": "EXf9AK1K0zhwi1ClQW9lcw",
+        "programID": "EP040781050128",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:30:00Z",
+        "duration": 7200,
+        "hash": "9a7e209f79e535ee4cf689b150b9c4f9",
+        "md5": "mn4gn3nlNe5M9omxULnE+Q",
+        "programID": "EP040659600338",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:30:00Z",
+        "duration": 900,
+        "hash": "3923ba5cb9e432f2f667edf69f6dc57b",
+        "md5": "OSO6XLnkMvL2Z+32n23Few",
+        "programID": "SH047128760000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:45:00Z",
+        "duration": 900,
+        "hash": "aa10509385e0e9d1c39bd205e0b8f5b9",
+        "md5": "qhBQk4Xg6dHDm9IF4Lj1uQ",
+        "programID": "SH048743020000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:00:00Z",
+        "duration": 1800,
+        "hash": "87eba2856ea37f850a16d7ca69b80d61",
+        "md5": "h+uihW6jf4UKFtfKabgNYQ",
+        "programID": "SH061110300000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:30:00Z",
+        "duration": 4500,
+        "hash": "3ace0bec196efbf3703617863549235e",
+        "md5": "Os4L7Blu+/NwNheGNUkjXg",
+        "programID": "EP057931000010",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:45:00Z",
+        "duration": 900,
+        "hash": "3923ba5cb9e432f2f667edf69f6dc57b",
+        "md5": "OSO6XLnkMvL2Z+32n23Few",
+        "programID": "SH047128760000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:00:00Z",
+        "duration": 4500,
+        "hash": "0bde63aefd862831b8ff2f725ef7d10c",
+        "md5": "C95jrv2GKDG4/y9yXvfRDA",
+        "programID": "EP063708330007",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:15:00Z",
+        "duration": 900,
+        "hash": "b51a40504d79647bca9bb45285c32212",
+        "md5": "tRpAUE15ZHvKm7RShcMiEg",
+        "programID": "SH054919280000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:30:00Z",
+        "duration": 3600,
+        "hash": "60e78c9f391fdd646c6211d917de41e6",
+        "md5": "YOeMnzkf3WRsYhHZF95B5g",
+        "programID": "SH047559350000",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:30:00Z",
+        "duration": 5400,
+        "hash": "3598bb55a30758039c4bfc88cbf2d673",
+        "md5": "NZi7VaMHWAOcS/yIy/LWcw",
+        "programID": "EP058525530036",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:00:00Z",
+        "duration": 3600,
+        "hash": "7bdaee197abf17c8aa87176caa2a072b",
+        "md5": "e9ruGXq/F8iqhxdsqioHKw",
+        "programID": "EP058369700036",
+        "videoProperties": [
+          "HD 1080p",
+          "hdtv"
+        ]
+      }
+    ],
+    "stationID": "10000007"
+  },
+  {
+    "metadata": {
+      "hash": "25f5e9afd7cf8caee03d09d0864157db",
+      "md5": "JfXpr9fPjK7gPQnQhkFX2w",
+      "modified": "2026-04-20T16:51:23Z",
+      "modifiedEpoch": 1776703883,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T01:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 4800,
+        "hash": "fd093fdf36829a7488c43fc656d1a0be",
+        "md5": "/Qk/3zaCmnSIxD/GVtGgvg",
+        "new": true,
+        "programID": "EP062567750002",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T02:20:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 4800,
+        "hash": "fd093fdf36829a7488c43fc656d1a0be",
+        "md5": "/Qk/3zaCmnSIxD/GVtGgvg",
+        "programID": "EP062567750002",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:40:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 9900,
+        "hash": "c9826bd6284c1c63ff911392ec0de946",
+        "md5": "yYJr1ihMHGP/kROS7A3pRg",
+        "programID": "MV002784430000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T06:25:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 4800,
+        "hash": "fd093fdf36829a7488c43fc656d1a0be",
+        "md5": "/Qk/3zaCmnSIxD/GVtGgvg",
+        "programID": "EP062567750002",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T07:45:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 7200,
+        "hash": "4beb9253d75ab76809639b38fc4f5b0b",
+        "md5": "S+uSU9dat2gJY5s4/E9bCw",
+        "programID": "MV000323410000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:45:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 600,
+        "hash": "462e6b77effdd64584f29cb84203d504",
+        "md5": "Ri5rd+/91kWE8py4QgPVBA",
+        "programID": "EP000044560045",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T09:55:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 300,
+        "hash": "4218b3391d1165c920ee5f6fa61a245d",
+        "md5": "QhizOR0RZckg7l9vphokXQ",
+        "programID": "EP000044560058",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "31cb0e786c80d8143197ba2a778c3f55",
+        "md5": "McsOeGyA2BQxl7oqd4w/VQ",
+        "programID": "SH055926030000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:30:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "39b9e31c3851851cca2f222edd5e97be",
+        "md5": "ObnjHDhRhRzKLyIu3V6Xvg",
+        "programID": "SH057563480000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "01a07c0af0ea39cb50a396620cbe8d70",
+        "md5": "AaB8CvDqOctQo5ZiDL6NcA",
+        "programID": "SH054255390000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:30:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "ba4801adc6b8cd6774cdb1f09fde246e",
+        "md5": "ukgBrca4zWd0zbHwn94kbg",
+        "programID": "SH033328620000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "1e478d6b02ac743f3ca07155df660a21",
+        "md5": "HkeNawKsdD88oHFV32YKIQ",
+        "programID": "SH060731200000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T12:30:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "8e649e242d421ee284ee4a883f0c1410",
+        "md5": "jmSeJC1CHuKE7kqIPwwUEA",
+        "programID": "SH000000010000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "9e0adb7223291332fd6a86b75af6c342",
+        "md5": "ngrbciMpEzL9aoa3WvbDQg",
+        "programID": "EP000044560053",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T13:30:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 1800,
+        "hash": "b6a861b2493e7da5e00180951bc28d1b",
+        "md5": "tqhhskk+faXgAYCVG8KNGw",
+        "programID": "EP000044560055",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 10800,
+        "hash": "8c87fb949f5932b7a9c1ef47544e4c17",
+        "md5": "jIf7lJ9ZMrepwe9HVE5MFw",
+        "programID": "MV000125280000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T17:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 9000,
+        "hash": "cd0edc7e4174134e94d14a13776035fc",
+        "md5": "zQ7cfkF0E06U0UoTd2A1/A",
+        "programID": "MV000273700000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T19:30:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 9000,
+        "hash": "89105d77f9ac25172047522568cb8382",
+        "md5": "iRBdd/msJRcgR1IlaMuDgg",
+        "programID": "MV000184850000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T22:00:00Z",
+        "audioProperties": [
+          "cc"
+        ],
+        "duration": 7200,
+        "hash": "f1d6e127f700fb0facf13f7ecfb5bdec",
+        "md5": "8dbhJ/cA+w+s8T9+z7W97A",
+        "programID": "MV000061550000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      }
+    ],
+    "stationID": "10000008"
+  },
+  {
+    "metadata": {
+      "hash": "b9587763a987d43c36a517db3839b4bd",
+      "md5": "uVh3Y6mH1Dw2pRfbODm0vQ",
+      "modified": "2026-04-20T18:10:29Z",
+      "modifiedEpoch": 1776708629,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T00:09:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 6720,
+        "hash": "8e8db13fde62c375e7b490a8bb9d98ed",
+        "md5": "jo2xP95iw3XntJCou52Y7Q",
+        "programID": "MV021750040000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T02:01:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 7980,
+        "hash": "5f1e16e8bf3996c00a94d021e551542b",
+        "md5": "Xx4W6L85lsAKlNAh5VFUKw",
+        "programID": "MV012121850000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T04:14:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 6720,
+        "hash": "e8facd76e0cb17f536143c93b29c6c43",
+        "md5": "6PrNduDLF/U2FDyTspxsQw",
+        "programID": "MV002659950000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T06:06:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 5340,
+        "hash": "e713ea8b5b3fcf36bea092caa2090979",
+        "md5": "5xPqi1s/zza+oJLKogkJeQ",
+        "programID": "MV008908460000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T07:35:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 5880,
+        "hash": "9fe1d3f838fc29a36ca4159615a6a871",
+        "md5": "n+HT+Dj8KaNspBWWFaaocQ",
+        "programID": "MV022997710000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T09:13:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 5880,
+        "hash": "19f56ae09d97dcce6628d47dd58f709a",
+        "md5": "GfVq4J2X3M5mKNR91Y9wmg",
+        "programID": "MV002655860000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T10:51:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 7680,
+        "hash": "018249a71160896dd103eea38993ede4",
+        "md5": "AYJJpxFgiW3RA+6jiZPt5A",
+        "programID": "MV000068340000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVPG"
+          }
+        ],
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T12:59:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 7500,
+        "hash": "543328028612009c52ba8932c66784da",
+        "md5": "VDMoAoYSAJxSuokyxmeE2g",
+        "programID": "MV000137440000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVPG"
+          }
+        ],
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T15:04:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 5400,
+        "hash": "110fb21c5a0d5cc67ad71da81e3fd8e8",
+        "md5": "EQ+yHFoNXMZ61x2oHj/Y6A",
+        "programID": "MV000227830000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVPG"
+          }
+        ],
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T16:34:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 9300,
+        "hash": "74c972c06cad9017ac4a7245101ce585",
+        "md5": "dMlywGytkBesSnJFEBzlhQ",
+        "programID": "MV001762320000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T19:09:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 7200,
+        "hash": "24e69f29971590fc3a41c53a715959bb",
+        "md5": "JOafKZcVkPw6QcU6cVlZuw",
+        "programID": "MV008489270000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T21:09:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 6720,
+        "hash": "93c207d18dcef60b464bb0468781098b",
+        "md5": "k8IH0Y3O9gtGS7BGh4EJiw",
+        "programID": "MV006744380000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVPG"
+          }
+        ],
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "SAPLanguage": "es",
+        "airDateTime": "2026-04-20T23:01:00Z",
+        "audioProperties": [
+          "SAP",
+          "cc"
+        ],
+        "duration": 7020,
+        "hash": "10dd7d2049ef3ca95186674998d3eebc",
+        "md5": "EN19IEnvPKlRhmdJmNPuvA",
+        "programID": "MV003954580000",
+        "ratings": [
+          {
+            "body": "USA Parental Rating",
+            "code": "TVPG"
+          }
+        ],
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      }
+    ],
+    "stationID": "10000009"
+  },
+  {
+    "metadata": {
+      "hash": "80e91b36dd73d37a2ab9ba922c6d6b54",
+      "md5": "gOkbNt1z03oqubqSLG1rVA",
+      "modified": "2026-04-20T22:33:33Z",
+      "modifiedEpoch": 1776724413,
+      "startDate": "2026-04-20"
+    },
+    "programs": [
+      {
+        "airDateTime": "2026-04-20T00:17:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 5220,
+        "hash": "3dbb9629ee50b20a7ff0400cb72879a8",
+        "md5": "PbuWKe5Qsgp/8EAMtyh5qA",
+        "programID": "MV000454070000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T01:44:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 4920,
+        "hash": "067cc3e0eb12b268589622b3f37b398f",
+        "md5": "BnzD4OsSsmhYliKz83s5jw",
+        "programID": "MV000185310000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T03:06:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 6600,
+        "hash": "295aece883baacc8f30fedff5073f4b4",
+        "md5": "KVrs6IO6rMjzD+3/UHP0tA",
+        "programID": "MV003375100000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T04:56:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 5760,
+        "hash": "20959f09f25bff4ad9ba193d15451248",
+        "md5": "IJWfCfJb/0rZuhk9FUUSSA",
+        "programID": "MV002822350000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T06:32:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 8400,
+        "hash": "e5d131b8442acc6ae7a04417e5d12973",
+        "md5": "5dExuEQqzGrnoEQX5dEpcw",
+        "programID": "MV002396690000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T08:52:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 5340,
+        "hash": "30ae2ee2bd4aa870d329087dfcead5fc",
+        "md5": "MK4u4r1KqHDTKQh9/OrV/A",
+        "programID": "MV000615050000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T10:21:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 4860,
+        "hash": "031eb1ba0aaa50014fe53fbc45d3f960",
+        "md5": "Ax6xugqqUAFP5T+8RdP5YA",
+        "programID": "MV003233630000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T11:42:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 8460,
+        "hash": "5a59d5eb5df0f5679512f0873e18c588",
+        "md5": "WlnV613w9WeVEvCHPhjFiA",
+        "programID": "MV002658940000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T14:03:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 7440,
+        "hash": "20949c505446246ac9dc4d17b21bf219",
+        "md5": "IJScUFRGJGrJ3E0XshvyGQ",
+        "programID": "MV003672920000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T16:07:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 7500,
+        "hash": "0245fbf9c73ded7ff5e7addb0282a529",
+        "md5": "AkX7+cc97X/1563bAoKlKQ",
+        "programID": "MV002565560000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T18:12:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 7260,
+        "hash": "f9d02f75842d749d5c33ab0e4cff1161",
+        "md5": "+dAvdYQtdJ1cM6sOTP8RYQ",
+        "programID": "MV000188320000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T20:13:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 6180,
+        "hash": "73bfead59e152ab8601dc82c221e3c5a",
+        "md5": "c7/q1Z4VKrhgHcgsIh48Wg",
+        "programID": "MV002338850000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T21:56:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 5940,
+        "hash": "9b30c4bd3701d25b16c47f4d61aea0e3",
+        "md5": "mzDEvTcB0lsWxH9NYa6g4w",
+        "programID": "MV000447980000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      },
+      {
+        "airDateTime": "2026-04-20T23:35:00Z",
+        "audioProperties": [
+          "cc",
+          "stereo",
+          "DD 5.1"
+        ],
+        "duration": 5880,
+        "hash": "9b79082b81da52eea79fb741a5896200",
+        "md5": "m3kIK4HaUu6nn7dBpYliAA",
+        "programID": "MV002358440000",
+        "videoProperties": [
+          "hdtv",
+          "HD 1080i"
+        ]
+      }
+    ],
+    "stationID": "10000010"
+  }
+]

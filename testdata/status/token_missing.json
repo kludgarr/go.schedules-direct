@@ -1,0 +1,7 @@
+{
+  "response": "TOKEN_MISSING",
+  "code": 1004,
+  "serverID": "20141201.web.1",
+  "message": "Token required but not provided in request header.",
+  "datetime": "2026-05-01T12:00:00Z"
+}

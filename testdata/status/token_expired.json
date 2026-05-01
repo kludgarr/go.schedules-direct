@@ -1,0 +1,7 @@
+{
+  "response": "TOKEN_EXPIRED",
+  "code": 4006,
+  "serverID": "20141201.web.1",
+  "message": "Token has expired. Request new token.",
+  "datetime": "2026-05-01T12:00:00Z"
+}

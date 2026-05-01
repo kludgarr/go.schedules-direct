@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "datetime": "2099-01-01T00:00:00Z",
+  "lineups": [
+    {
+      "lineup": "USA-EXAMPLE-A",
+      "location": "National",
+      "name": "Example Service A",
+      "transport": "IPTV",
+      "uri": "/20141201/lineups/USA-EXAMPLE-A"
+    },
+    {
+      "lineup": "USA-EXAMPLE-B",
+      "location": "National",
+      "name": "Example Service B",
+      "transport": "IPTV",
+      "uri": "/20141201/lineups/USA-EXAMPLE-B"
+    },
+    {
+      "lineup": "USA-OTA-90210",
+      "location": "90210",
+      "name": "Local Broadcast Listings 90210",
+      "transport": "Antenna",
+      "uri": "/20141201/lineups/USA-OTA-90210"
+    },
+    {
+      "lineup": "USA-EXAMPLE-C",
+      "location": "National",
+      "name": "Example Service C",
+      "transport": "IPTV",
+      "uri": "/20141201/lineups/USA-EXAMPLE-C"
+    }
+  ],
+  "serverID": "20141201.web"
+}

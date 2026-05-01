@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "datetime": "2099-01-01T00:00:00Z",
+  "message": "OK",
+  "serverID": "20141201.web",
+  "serverTime": 4070908800,
+  "token": "0123456789abcdef0123456789abcdef",
+  "tokenExpires": 4070995200
+}

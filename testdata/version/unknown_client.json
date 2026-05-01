@@ -1,0 +1,7 @@
+{
+  "response": "UNKNOWN_CLIENT",
+  "code": 1005,
+  "serverID": "20141201.web.1",
+  "message": "Did not recognize the submitted client.",
+  "datetime": "2026-05-01T12:00:00Z"
+}

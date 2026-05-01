@@ -1,0 +1,271 @@
+[
+  {
+    "headend": "0000001",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "ChannelsDVR TV-Everywhere",
+        "lineup": "USA-0000001-CUSTOM",
+        "uri": "\/20141201\/lineups\/USA-0000001-CUSTOM"
+      }
+    ]
+  },
+  {
+    "headend": "AFN",
+    "transport": "Satellite",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "AFN Satellite",
+        "lineup": "USA-AFN-X",
+        "uri": "\/20141201\/lineups\/USA-AFN-X"
+      }
+    ]
+  },
+  {
+    "headend": "AMZPV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Example Service A",
+        "lineup": "USA-EXAMPLE-A",
+        "uri": "\/20141201\/lineups\/USA-EXAMPLE-A"
+      }
+    ]
+  },
+  {
+    "headend": "DITV",
+    "transport": "Satellite",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "DIRECTV",
+        "lineup": "USA-DITV-X",
+        "uri": "\/20141201\/lineups\/USA-DITV-X"
+      }
+    ]
+  },
+  {
+    "headend": "DTVNOW",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "DIRECTV STREAM",
+        "lineup": "USA-DTVNOW-X",
+        "uri": "\/20141201\/lineups\/USA-DTVNOW-X"
+      }
+    ]
+  },
+  {
+    "headend": "ECHOST",
+    "transport": "Satellite",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "DISH Network",
+        "lineup": "USA-ECHOST-X",
+        "uri": "\/20141201\/lineups\/USA-ECHOST-X"
+      }
+    ]
+  },
+  {
+    "headend": "FRNDLY",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "frndly",
+        "lineup": "USA-FRNDLY-X",
+        "uri": "\/20141201\/lineups\/USA-FRNDLY-X"
+      }
+    ]
+  },
+  {
+    "headend": "FUBOTV",
+    "transport": "IPTV",
+    "location": "None",
+    "lineups": [
+      {
+        "name": "Example Service B",
+        "lineup": "USA-FUBOTV-DEFAULT",
+        "uri": "\/20141201\/lineups\/USA-FUBOTV-DEFAULT"
+      },
+      {
+        "name": "Example Service B",
+        "lineup": "USA-EXAMPLE-B",
+        "uri": "\/20141201\/lineups\/USA-EXAMPLE-B"
+      }
+    ]
+  },
+  {
+    "headend": "GLRYSTR",
+    "transport": "Satellite",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "GLORYSTAR",
+        "lineup": "USA-GLRYSTR-X",
+        "uri": "\/20141201\/lineups\/USA-GLRYSTR-X"
+      }
+    ]
+  },
+  {
+    "headend": "GNSTR",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "US Streaming (Extended)",
+        "lineup": "USA-GNSTR-X",
+        "uri": "\/20141201\/lineups\/USA-GNSTR-X"
+      }
+    ]
+  },
+  {
+    "headend": "HULUTV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Hulu",
+        "lineup": "USA-HULUTV-X",
+        "uri": "\/20141201\/lineups\/USA-HULUTV-X"
+      }
+    ]
+  },
+  {
+    "headend": "IMDBTV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "FREEVEE",
+        "lineup": "USA-IMDBTV-X",
+        "uri": "\/20141201\/lineups\/USA-IMDBTV-X"
+      }
+    ]
+  },
+  {
+    "headend": "PEACOCK",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Peacock",
+        "lineup": "USA-PEACOCK-X",
+        "uri": "\/20141201\/lineups\/USA-PEACOCK-X"
+      }
+    ]
+  },
+  {
+    "headend": "PHILO",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Philo",
+        "lineup": "USA-PHILO-X",
+        "uri": "\/20141201\/lineups\/USA-PHILO-X"
+      }
+    ]
+  },
+  {
+    "headend": "PLUTOTV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Pluto TV",
+        "lineup": "USA-PLUTOTV-X",
+        "uri": "\/20141201\/lineups\/USA-PLUTOTV-X"
+      }
+    ]
+  },
+  {
+    "headend": "SAMSUNG",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Samsung TV Plus",
+        "lineup": "USA-SAMSUNG-X",
+        "uri": "\/20141201\/lineups\/USA-SAMSUNG-X"
+      }
+    ]
+  },
+  {
+    "headend": "SLINGTV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Example Service C",
+        "lineup": "USA-EXAMPLE-C",
+        "uri": "\/20141201\/lineups\/USA-EXAMPLE-C"
+      }
+    ]
+  },
+  {
+    "headend": "TUBISTR",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "TUBI TV",
+        "lineup": "USA-TUBISTR-X",
+        "uri": "\/20141201\/lineups\/USA-TUBISTR-X"
+      }
+    ]
+  },
+  {
+    "headend": "VIZIO",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Vizio",
+        "lineup": "USA-VIZIO-X",
+        "uri": "\/20141201\/lineups\/USA-VIZIO-X"
+      }
+    ]
+  },
+  {
+    "headend": "XFINSTR",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Xfinity Stream",
+        "lineup": "USA-XFINSTR-X",
+        "uri": "\/20141201\/lineups\/USA-XFINSTR-X"
+      }
+    ]
+  },
+  {
+    "headend": "XUMOTV",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "Xumo TV",
+        "lineup": "USA-XUMOTV-X",
+        "uri": "\/20141201\/lineups\/USA-XUMOTV-X"
+      }
+    ]
+  },
+  {
+    "headend": "YOUTUBE",
+    "transport": "IPTV",
+    "location": "National",
+    "lineups": [
+      {
+        "name": "You Tube TV",
+        "lineup": "USA-YOUTUBE-X",
+        "uri": "\/20141201\/lineups\/USA-YOUTUBE-X"
+      }
+    ]
+  }
+]

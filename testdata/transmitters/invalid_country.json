@@ -1,0 +1,7 @@
+{
+  "response": "INVALID_PARAMETER:COUNTRY",
+  "code": 2050,
+  "serverID": "20141201.web.1",
+  "message": "Country not supported. Allowed: GBR.",
+  "datetime": "2026-05-01T12:00:00Z"
+}

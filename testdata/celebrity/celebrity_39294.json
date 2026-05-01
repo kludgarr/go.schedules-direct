@@ -1,0 +1,1036 @@
+{
+  "awards": [
+    {
+      "awardCategory": "Outstanding Lead Actor in a Miniseries or a Movie",
+      "awardName": "Emmy (Primetime)",
+      "awardYear": "1999",
+      "wonAward": true
+    }
+  ],
+  "birthDate": "1967-10-04",
+  "birthPlace": "San Francisco, California, USA",
+  "gender": "Male",
+  "images": [
+    {
+      "aspect": "3x4",
+      "category": "Photo - headshot",
+      "height": "720",
+      "lastUpdated": "2023-07-31T11:45:46Z",
+      "ratio": "3:4",
+      "uri": "a249d4269a921fe48736c4d8282504872da2dd73b5dbbdf62e3fd71a8c715446.jpg",
+      "width": "540"
+    },
+    {
+      "aspect": "3x4",
+      "category": "Photo - headshot",
+      "height": "360",
+      "lastUpdated": "2023-07-31T11:45:46Z",
+      "ratio": "3:4",
+      "uri": "a37a7654f119d967267e85551b4dd8265ce17b8dc9c4b3369043f1feb7411aa1.jpg",
+      "width": "270"
+    },
+    {
+      "aspect": "3x4",
+      "category": "Photo - headshot",
+      "height": "180",
+      "lastUpdated": "2023-07-31T11:45:46Z",
+      "ratio": "3:4",
+      "uri": "5740bbff76d42bbe034d18a8f2e6027adfd124da3234a0dc746f60cfa3467061.jpg",
+      "width": "135"
+    }
+  ],
+  "mediography": [
+    {
+      "credits": [
+        {
+          "characterName": "Vincent",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV004997510000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Last Days on Mars",
+      "year": "2013"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "The Storm King",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV009731450000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "My Little Pony: The Movie",
+      "year": "2017"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Raymond Shaw",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001494880000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Manchurian Candidate",
+      "year": "2004"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ulysses Ford",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001545080000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Lackawanna Blues",
+      "year": "2005"
+    },
+    {
+      "credits": [
+        {
+          "role": "Narrator"
+        }
+      ],
+      "programID": "MV002205950000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Sputnik Mania",
+      "year": "2007"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Cotton Weary",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000491040000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Scream",
+      "year": "1996"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Andrew",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000447130000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Walking and Talking",
+      "year": "1996"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Wilson Fisk/Kingpin",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV010689760000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": "2018"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Clark Barnes",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000485180000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Ransom",
+      "year": "1996"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ray Johnson",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001921130000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Ten",
+      "year": "2007"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Jerry Heckerman",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000418360000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Denise Calls Up",
+      "year": "1995"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Dr. Ted Fielding",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000554810000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Sphere",
+      "year": "1998"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Jeff Willis",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000576540000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Twilight",
+      "year": "1998"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ted Winter",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV002693410000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Salt",
+      "year": "2010"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Frank",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV002659950000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Repo Men",
+      "year": "2010"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Colonel Vosch",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV007793770000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The 5th Wave",
+      "year": "2016"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Boris Spassky",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV006595410000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Pawn Sacrifice",
+      "year": "2014"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "John Clark",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001214320000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Sum of All Fears",
+      "year": "2002"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Cotton Weary",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000543400000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Scream 2",
+      "year": "1997"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "James",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV005124760000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "A Perfect Man",
+      "year": "2012"
+    },
+    {
+      "credits": [
+        {
+          "role": "Executive Producer"
+        }
+      ],
+      "programID": "MV026340270000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Scream of My Blood: A Gogol Bordello Story",
+      "year": "2023"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Nigel",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000413760000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Party Girl",
+      "year": "1995"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Robert Thorn",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001776690000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Omen",
+      "year": "2006"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Stuart",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001157490000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Kate & Leopold",
+      "year": "2001"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Fred Linderhoff",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000566670000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Since You've Been Gone",
+      "year": "1998"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Isaac Babel",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV009373680000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Finding Babel",
+      "year": "2015"
+    },
+    {
+      "credits": [
+        {
+          "role": "Director"
+        },
+        {
+          "role": "Screenwriter"
+        }
+      ],
+      "programID": "MV001606230000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Everything Is Illuminated",
+      "year": "2005"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Orson Welles",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000795020000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "RKO 281",
+      "year": "1999"
+    },
+    {
+      "credits": [
+        {
+          "role": "Executive Producer"
+        }
+      ],
+      "programID": "MV025171610000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Once Upon A Time In Ukraine",
+      "year": "2024"
+    },
+    {
+      "credits": [
+        {
+          "role": "Narrator"
+        }
+      ],
+      "programID": "MV007677960000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Unity",
+      "year": "2015"
+    },
+    {
+      "credits": [
+        {
+          "role": "Narrator"
+        }
+      ],
+      "programID": "MV018967850000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Rescue in the Philippines: Refuge From the Holocaust",
+      "year": "2013"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Leo",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000447760000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Big Night",
+      "year": "1996"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Henry Kissinger",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV018504770000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Golda",
+      "year": "2023"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Glenn",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000607610000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "His and Hers",
+      "year": "1997"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Carl Petrovic",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000454070000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Daytrippers",
+      "year": "1996"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Chuck Wepner",
+          "role": "Actor"
+        },
+        {
+          "role": "Screenwriter"
+        },
+        {
+          "role": "Producer"
+        }
+      ],
+      "programID": "MV009900360000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Bleeder",
+      "year": "2016"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ray Donovan",
+          "role": "Actor"
+        },
+        {
+          "role": "Executive Producer"
+        },
+        {
+          "role": "Screenwriter"
+        }
+      ],
+      "programID": "MV017592570000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Ray Donovan: The Movie",
+      "year": "2022"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Lipa",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV025218380000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Caught Stealing",
+      "year": "2025"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Bobby Lincoln",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV004441020000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Reluctant Fundamentalist",
+      "year": "2012"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Spots",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV010376380000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Isle of Dogs",
+      "year": "2018"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Vilma",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV002435260000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Taking Woodstock",
+      "year": "2009"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Joseph Pulitzer",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV012228860000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Joseph Pulitzer: Voice of the People",
+      "year": "2017"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Deputy Stuart ``Stu'' Wargle",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000551480000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Phantoms",
+      "year": "1998"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Lyndon B. Johnson",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV004869900000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Lee Daniels' The Butler",
+      "year": "2013"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Chris",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000411540000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Mixed Nuts",
+      "year": "1994"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Drew",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV013723420000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Human Capital",
+      "year": "2019"
+    },
+    {
+      "credits": [
+        {
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001352510000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Hitler: The Rise of Evil",
+      "year": "2003"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Roland Pollard",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV012650650000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "A Rainy Day in New York",
+      "year": "2019"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ogden",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000420000000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Buffalo Girls",
+      "year": "1995"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Zus Bielski",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV002236930000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Defiance",
+      "year": "2008"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Robot",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV008810560000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Robot & Frank",
+      "year": "2012"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Paul",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000894690000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Spring Forward",
+      "year": "1999"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ricky Gregg",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000512370000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "The Sunshine Boys",
+      "year": "1997"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ned",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV003419720000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Every Day",
+      "year": "2010"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Colonel Richard Cantwell",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV021303010000",
+      "programTitleLanguage": "en-GB",
+      "programType": "Movie",
+      "title": "Across the River and Into the Trees",
+      "year": "2022"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Mischa",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000797640000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Jakob the Liar",
+      "year": "1999"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "J.J. Kellogg",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV018663020000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Asteroid City",
+      "year": "2023"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Charlie Townsend",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001807390000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Painted Veil",
+      "year": "2006"
+    },
+    {
+      "credits": [
+        {
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV027646620000",
+      "programTitleLanguage": "pl",
+      "programType": "Movie",
+      "title": "Projekt Jelcyn",
+      "year": "2003"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Marty Baron",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV007749660000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Spotlight",
+      "year": "2015"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ross Rhea",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV003785560000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Goon",
+      "year": "2011"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Trevor Blundell",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV004383670000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Mental",
+      "year": "2012"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Cotton Weary",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000833920000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Scream 3",
+      "year": "2000"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Narrator",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV004475980000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Money for Nothing: Inside the Federal Reserve",
+      "year": "2012"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Laertes",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000834010000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Hamlet",
+      "year": "2000"
+    },
+    {
+      "credits": [
+        {
+          "role": "Self"
+        }
+      ],
+      "programID": "MV010190910000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Pulitzer at 100",
+      "year": "2016"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Marty Kantrowitz",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000715820000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "A Walk on the Moon",
+      "year": "1999"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Robert",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV004074530000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Movie 43",
+      "year": "2013"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Dovi",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV005121660000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Fading Gigolo",
+      "year": "2013"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Victor Creed/Sabretooth",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV002106310000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "X-Men Origins: Wolverine",
+      "year": "2009"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Lotario Thurgot",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001976050000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Love in the Time of Cholera",
+      "year": "2007"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Ross Rhea",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV009855300000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Goon: Last of the Enforcers",
+      "year": "2017"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "William Kuntsler",
+          "role": "Voice"
+        }
+      ],
+      "programID": "MV002009740000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "Chicago 10",
+      "year": "2007"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Joe Shumate",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV001355640000",
+      "programTitleLanguage": "en",
+      "programType": "TV Movie",
+      "title": "Spinning Boris",
+      "year": "2003"
+    },
+    {
+      "credits": [
+        {
+          "characterName": "Sam Chaiton",
+          "role": "Actor"
+        }
+      ],
+      "programID": "MV000828430000",
+      "programTitleLanguage": "en",
+      "programType": "Movie",
+      "title": "The Hurricane",
+      "year": "1999"
+    }
+  ],
+  "names": [
+    {
+      "firstName": "Liev",
+      "isPrimary": true,
+      "lastName": "Schreiber",
+      "nameId": "39294"
+    }
+  ],
+  "personId": "39294",
+  "type": "Person",
+  "updateDate": "2026-04-14T16:25:14Z"
+}

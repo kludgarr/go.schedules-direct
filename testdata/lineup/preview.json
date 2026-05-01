@@ -1,0 +1,157 @@
+[
+  {
+    "callsign": "PK1",
+    "channel": "001",
+    "name": "Best of Paris"
+  },
+  {
+    "callsign": "PK2",
+    "channel": "002",
+    "name": "SETH MEYERS NOW"
+  },
+  {
+    "callsign": "PK3",
+    "channel": "003",
+    "name": "SNL Vault"
+  },
+  {
+    "callsign": "PK4",
+    "channel": "004",
+    "name": "Dungeons and Dragons"
+  },
+  {
+    "callsign": "PK5",
+    "channel": "005",
+    "name": "Jeopardy!"
+  },
+  {
+    "callsign": "PK6",
+    "channel": "006",
+    "name": "WWE Network"
+  },
+  {
+    "callsign": "PK7",
+    "channel": "007",
+    "name": "Wheel of Fortune"
+  },
+  {
+    "callsign": "PK8",
+    "channel": "008",
+    "name": "Best of Milan Cortina"
+  },
+  {
+    "callsign": "PK9",
+    "channel": "009",
+    "name": "Decision 2024"
+  },
+  {
+    "callsign": "PK11",
+    "channel": "011",
+    "name": "Choice Channel"
+  },
+  {
+    "callsign": "PK12",
+    "channel": "012",
+    "name": "Dateline"
+  },
+  {
+    "callsign": "PK13",
+    "channel": "013",
+    "name": "Team USA"
+  },
+  {
+    "callsign": "PK14",
+    "channel": "014",
+    "name": "Can't Not Laugh"
+  },
+  {
+    "callsign": "PK15",
+    "channel": "015",
+    "name": "Office Zen"
+  },
+  {
+    "callsign": "PK16",
+    "channel": "016",
+    "name": "Real Housewives"
+  },
+  {
+    "callsign": "PK17",
+    "channel": "017",
+    "name": "POKER"
+  },
+  {
+    "callsign": "PK18",
+    "channel": "018",
+    "name": "US Open"
+  },
+  {
+    "callsign": "PK19",
+    "channel": "019",
+    "name": "CASO CERRRADO"
+  },
+  {
+    "callsign": "PK20",
+    "channel": "020",
+    "name": "TODAY All Day"
+  },
+  {
+    "callsign": "PK21",
+    "channel": "021",
+    "name": "CNBC Make It"
+  },
+  {
+    "callsign": "PK23",
+    "channel": "022",
+    "name": "Tis the Season"
+  },
+  {
+    "callsign": "PK24",
+    "channel": "023",
+    "name": "GOLFPASS"
+  },
+  {
+    "callsign": "NBCNN",
+    "channel": "024",
+    "name": "NBC News NOW"
+  },
+  {
+    "callsign": "SKYNWS",
+    "channel": "025",
+    "name": "Sky News"
+  },
+  {
+    "callsign": "PK22",
+    "channel": "032",
+    "name": "NBC Sports NOW"
+  },
+  {
+    "callsign": "TBRCSTR",
+    "channel": "033",
+    "name": "The Bob Ross Channel"
+  },
+  {
+    "callsign": "COMCLN",
+    "channel": "034",
+    "name": "Comedy Dynamics"
+  },
+  {
+    "callsign": "DOVESTR",
+    "channel": "035",
+    "name": "Dove"
+  },
+  {
+    "callsign": "REALSTR",
+    "channel": "036",
+    "name": "So... Real"
+  },
+  {
+    "callsign": "THISOH",
+    "channel": "038",
+    "name": "This Old House"
+  },
+  {
+    "callsign": "PK25",
+    "channel": "040",
+    "name": "Chrisley Knows Best"
+  }
+]
