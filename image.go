@@ -39,7 +39,7 @@ func (c *Client) GetImageURL(ctx context.Context, uri string) (string, error) {
 	}
 
 	// Non-redirect-following copy of the underlying client; shares Transport
-	// so any consumer-installed RoundTripper still applies.
+	// so any consumer-installed Transport customization still applies.
 	nonRedirect := *c.HTTPClient
 	nonRedirect.CheckRedirect = func(*http.Request, []*http.Request) error {
 		return http.ErrUseLastResponse

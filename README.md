@@ -69,14 +69,14 @@ The library is the SD wire protocol bound to Go shapes. The hard line:
 | In scope | Out of scope (consumer's job) |
 |---|---|
 | Request and response types | Token storage and refresh |
-| HTTP client with token + UA injection | Mailbox / observability intake |
+| HTTP client with token + UA injection | Observability |
 | One Go method per SD endpoint | Rate-limiting policy |
 | Error code constants + envelope parsing | Single-flight gating |
 | Pluggable HTTP transport via `*http.Client` | Database persistence |
 | Real-wire test fixtures | Pipeline phase orchestration |
 |  | Retry policy beyond what SD documents |
 
-If a feature feels like it should belong but is in the right column, your `http.RoundTripper` chain or your application layer is where it goes — not this library.
+If a feature feels like it should belong but is in the right column, your application is where it goes — not this library. Pick whatever shape fits.
 
 ## Endpoint coverage
 
@@ -159,18 +159,19 @@ for _, s := range schedules {
 }
 ```
 
-## HTTP transport customization
+## HTTP client customization
 
-The `*http.Client` is fully customizable. Wrap `client.HTTPClient.Transport` with your own `http.RoundTripper` chain to add rate limiting, single-flight, request logging, or observability — concerns the library deliberately leaves to you:
+The `*http.Client` is fully customizable via `WithHTTPClient`. Pass whatever client your application needs — custom timeout, custom transport, anything else `http.Client` exposes:
 
 ```go
 client, _ := sd.NewClient("MyApp/1.0",
     sd.WithHTTPClient(&http.Client{
-        Transport: myRateLimitedTransport(http.DefaultTransport),
-        Timeout:   30 * time.Second,
+        Timeout: 30 * time.Second,
     }),
 )
 ```
+
+Cross-cutting concerns (rate limiting, single-flight, observability) are the consumer's call. The library doesn't prescribe a mechanism — implement at whichever layer fits your application.
 
 ## Image fetching
 

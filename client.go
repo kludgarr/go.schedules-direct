@@ -15,10 +15,10 @@ var ErrMissingUserAgent = errors.New("schedulesdirect: user agent is required (S
 
 // Client is a Schedules Direct REST API client.
 //
-// Construct with NewClient. The HTTP transport is consumer-provided: wrap
-// HTTPClient.Transport with custom http.RoundTripper(s) for cross-cutting
-// concerns (rate limiting, single-flight, observability intake) — those are
-// outside this library's scope.
+// Construct with NewClient. HTTPClient is consumer-configurable via WithHTTPClient;
+// any cross-cutting concerns (rate limiting, single-flight, observability) are
+// outside this library's scope and are the consumer's call as to where and how
+// to implement.
 type Client struct {
 	// HTTPClient performs the underlying HTTP requests.
 	// Defaults to http.DefaultClient.

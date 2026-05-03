@@ -2,10 +2,9 @@
 // (version 20141201).
 //
 // The library encodes Schedules Direct's wire protocol as Go shapes and methods.
-// Consumers own multi-account state, persistence, mailbox / observability,
-// rate limiting, single-flight, and pipeline orchestration. The library exposes
-// hooks (TokenStore interface, http.RoundTripper chain points) for consumers to
-// provide those concerns.
+// Multi-account state, persistence, observability, rate limiting, single-flight,
+// and pipeline orchestration are out of scope — consumers handle those at
+// whichever layer of their application fits.
 //
 // Schedules Direct requires a User-Agent header on every request; missing or
 // generic User-Agents are rejected with error code 1003.
