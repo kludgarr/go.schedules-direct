@@ -11,7 +11,7 @@ Every endpoint in the bundled OpenAPI spec is covered, with response types model
 ## Install
 
 ```sh
-go get github.com/podgarr/go.schedules-direct
+go get github.com/kludgarr/go.schedules-direct
 ```
 
 Requires Go 1.26 or later.
@@ -26,7 +26,7 @@ import (
     "fmt"
     "log"
 
-    sd "github.com/podgarr/go.schedules-direct"
+    sd "github.com/kludgarr/go.schedules-direct"
 )
 
 func main() {

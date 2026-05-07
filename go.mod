@@ -1,3 +1,3 @@
-module github.com/podgarr/go.schedules-direct
+module github.com/kludgarr/go.schedules-direct
 
 go 1.26
